@@ -1,8 +1,10 @@
 script 0
-prints 'Hello World'
+ prints 'Hello World'
 script 1
-prints "(Ôo)'
+ prints "(Ôo)'
 script 2
-displays the content of /etc/passwd
+ displays the content of /etc/passwd
 script 3
-displays the content of /etc/passwd and /etc/hosts
+ displays the content of /etc/passwd and /etc/hosts
+script 4
+ Display the last 10 lines of /etc/passwd
